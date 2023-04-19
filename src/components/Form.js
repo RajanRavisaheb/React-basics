@@ -1,6 +1,5 @@
 import React , {useState} from 'react'
 
-let c = 0;
 const Form = (props) => {
     
     const [Text, setText] = useState('default');
